@@ -47,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AL\DataAccessLayer.cs" />
     <Compile Include="BL\CS_Categories.cs" />
     <Compile Include="BL\CS_Customers.cs" />
     <Compile Include="BL\CS_Employees.cs" />
