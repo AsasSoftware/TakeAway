@@ -47,6 +47,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL\CS_Categories.cs" />
+    <Compile Include="BL\CS_Customers.cs" />
+    <Compile Include="BL\CS_Employees.cs" />
+    <Compile Include="BL\CS_Establishment.cs" />
+    <Compile Include="BL\CS_Expenses.cs" />
+    <Compile Include="BL\CS_Marketers.cs" />
+    <Compile Include="BL\CS_Orders.cs" />
+    <Compile Include="BL\CS_PaymentStyle.cs" />
+    <Compile Include="BL\CS_Purchases.cs" />
+    <Compile Include="BL\CS_Sales.cs" />
+    <Compile Include="BL\CS_Store.cs" />
+    <Compile Include="BL\CS_Supplier.cs" />
+    <Compile Include="BL\CS_Treasury.cs" />
+    <Compile Include="BL\CS_Units.cs" />
+    <Compile Include="BL\CS_Users.cs" />
     <Compile Include="PL\FR_Emp.cs">
       <SubType>Form</SubType>
     </Compile>
