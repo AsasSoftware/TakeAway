@@ -129,6 +129,9 @@
   <ItemGroup>
     <None Include="Resources\71880225_506727409905549_9016804364982943744_n.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RPT\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
